@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652984676 source:c:\users\bonsick\desktop\pr02ud\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<iomanip>
+
