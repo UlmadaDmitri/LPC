@@ -3,7 +3,7 @@
 #include <math.h>
 #include <iomanip>
 #include <conio.h>
-#define NMAX 100
+#define NMAX 200
 using namespace std;
 int Citire(int n, int a[]);
 void Afisare(int n, int a[], char s[]);

@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1653418194 source:c:\users\bonsick\desktop\pr06ud\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1653417096 source:c:\users\bonsick\desktop\pr06ud\liste.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"retele.h"
+
+1653413828 c:\users\bonsick\desktop\pr06ud\retele.h
+
+1653418302 source:c:\users\bonsick\desktop\pr06ud\service.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"retele.h"
+
+1653418278 source:c:\users\bonsick\desktop\pr06ud\actual.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"retele.h"
+
+1653418278 source:c:\users\bonsick\desktop\lpc\pr06ud\actual.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"retele.h"
+
+1653413828 c:\users\bonsick\desktop\lpc\pr06ud\retele.h
+
+1653417096 source:c:\users\bonsick\desktop\lpc\pr06ud\liste.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"retele.h"
+
+1653418194 source:c:\users\bonsick\desktop\lpc\pr06ud\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1653418302 source:c:\users\bonsick\desktop\lpc\pr06ud\service.cpp
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"retele.h"
+
